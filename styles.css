@@ -10,7 +10,7 @@ body{
 }
 p:first-child{
 	background-color: black;
-	color: white
+	color: white;
 }
 p:nth-child(2){
 	color: black;
